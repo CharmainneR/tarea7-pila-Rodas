@@ -1,11 +1,11 @@
-# tarea7-pila-[apellido]
+# tarea7-pila-Rodas
 
 Sistema de Bitácora de la USS Algoritmo — implementación del TDA Pila en Java.
 
 ## Estructura del proyecto
 
 ```
-tarea7-pila-[apellido]/
+tarea7-pila-Rodas/
 └── src/
     └── Main.java
 ```
